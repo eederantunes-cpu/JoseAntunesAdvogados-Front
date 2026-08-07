@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/leonardolemosmartini/Documents/Leonardo%20Martini/repositorios/joseantunesadvogados/repositorios/JoseAntunesAdvogados-Front/src/app/page.js"],"sourcesContent":["\nexport default function Home() {\n  return (\n    <div>\n      <h1>Site em manutenção</h1>\n      <h3>Estamos preparando algo novo</h3>\n      <p>\n        Nosso site está passando por alguns ajustes e, em breve, estará disponível com todas as informações sobre nossos serviços.\n        Enquanto isso, se você quiser entrar em contato, estamos à disposição pelo WhatsApp.\n      </p>\n      <a\n          href=\"https://wa.me/5551998749583\"\n          target=\"_blank\"\n          rel=\"noopener noreferrer\"\n          className=\"whatsapp-button\"\n        >\n          Fale comigo\n        </a>\n    </div>\n  );\n}\n"],"names":["Home","href","target","rel","className"],"mappings":";;;;;;AACe,SAASA;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;0BAIH,8OAAC;gBACGC,MAAK;gBACLC,QAAO;gBACPC,KAAI;gBACJC,WAAU;0BACX;;;;;;;;;;;;AAKT"}}]
+}

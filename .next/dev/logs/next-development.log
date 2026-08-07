@@ -1,0 +1,57 @@
+{"timestamp":"00:00:01.124","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:17.084","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:12.066","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:29.820","source":"Server","level":"LOG","message":"✓ Compiled in 12ms"}
+{"timestamp":"00:02:36.134","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:02:37.526","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:48.611","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:03:28.449","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:04:02.591","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:08:14.277","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:08:14.278","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:08:53.520","source":"Server","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`?"}
+{"timestamp":"00:08:53.563","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:08:53.583","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:08:53.584","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:09:39.705","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:09:46.177","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:46.187","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:09:46.187","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:09:57.008","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:10:02.824","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:12:22.572","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:12:29.840","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:12:29.920","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:12:29.920","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:12:42.207","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:18:25.059","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:18:25.128","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:18:25.128","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:19:00.857","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:19:09.341","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:19:12.408","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:19:12.436","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:19:12.436","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:19:46.436","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:20:07.008","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:24:17.798","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:24:21.839","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:24:21.893","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:24:21.894","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:24:29.176","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:24:30.725","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:24:30.784","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:24:30.785","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:25:37.283","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:25:49.398","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:25:49.452","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:25:49.453","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:26:25.423","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:26:26.975","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:26:27.031","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:26:27.031","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:27:48.953","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:27:50.493","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:27:50.540","source":"Browser","level":"ERROR","message":"Invalid DOM property `class`. Did you mean `className`? "}
+{"timestamp":"00:27:50.540","source":"Server","level":"ERROR","message":"[browser] \"Invalid DOM property `class`. Did you mean `className`?\" \"\""}
+{"timestamp":"00:29:44.890","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
