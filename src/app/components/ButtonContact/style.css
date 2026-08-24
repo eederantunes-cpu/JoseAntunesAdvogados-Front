@@ -1,0 +1,11 @@
+.button-contact {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 24px;
+    color: var(--color-text);
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: var(--color-gold);
+}

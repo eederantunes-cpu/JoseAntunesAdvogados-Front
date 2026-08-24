@@ -1,10 +1,11 @@
+import "./manutencao.css"
 
 export default function Home() {
   return (
-    <div>
-      <h1>Site em manutenção</h1>
-      <h3>Estamos preparando algo novo</h3>
-      <p>
+    <div className="manutencao-div">
+      <h1 className="manutencao-h1">Site em manutenção</h1>
+      <h3 className="manutencao-h3">Estamos preparando algo novo</h3>
+      <p className="manutencao-p">
         Nosso site está passando por alguns ajustes e, em breve, estará disponível com todas as informações sobre nossos serviços.
         Enquanto isso, se você quiser entrar em contato, estamos à disposição pelo WhatsApp.
       </p>

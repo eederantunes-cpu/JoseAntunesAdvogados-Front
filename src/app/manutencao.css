@@ -1,0 +1,31 @@
+.manutencao-div {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.manutencao-h1 {
+    font-size: 4rem;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.manutencao-p {
+    text-align: center;
+}
+
+.whatsapp-button {
+    display: inline-flex;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    background-color: #25D366;
+}
