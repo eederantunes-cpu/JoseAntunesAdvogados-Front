@@ -1,3 +1,4 @@
+import AreasAtuacao from "../components/AreasAtuacao/areasAtuacao";
 import Header from "../components/Header/header";
 import Hero from "../components/Hero/hero";
 import Welcome from "../components/Welcome/welcome";
@@ -10,6 +11,7 @@ export default function Home() {
       <div className="background">
         <Header />
         <Hero />
+        <AreasAtuacao />
       </div>
     </>
   );
