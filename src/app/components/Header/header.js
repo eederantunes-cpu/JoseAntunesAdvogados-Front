@@ -13,6 +13,7 @@ export default function Header() {
                 <Link href="#inicio">INICIO</Link>
                 <Link href="#areas-atuacao">ÁREAS DE ATUACAO</Link>
                 <Link href="#sobre">SOBRE</Link>
+                <Link href="#contato">CONTATO</Link>
                 <ButtonContact className="header-nav-contact">
                     FALE COMIGO
                 </ButtonContact>
