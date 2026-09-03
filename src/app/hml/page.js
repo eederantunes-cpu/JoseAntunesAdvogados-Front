@@ -1,4 +1,6 @@
 import AreasAtuacao from "../components/AreasAtuacao/areasAtuacao";
+import Contato from "../components/Contato/contato";
+import Footer from "../components/Footer/footer";
 import Header from "../components/Header/header";
 import Hero from "../components/Hero/hero";
 import Sobre from "../components/Sobre/sobre";
@@ -14,6 +16,8 @@ export default function Home() {
         <Hero />
         <AreasAtuacao />
         <Sobre />
+        <Contato />
+        <Footer />
       </div>
     </>
   );
