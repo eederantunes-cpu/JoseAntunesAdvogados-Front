@@ -1,3 +1,4 @@
+import { Cinzel } from "next/font/google";
 import "./globals.css";
 
 export const metadata = {
@@ -5,10 +6,17 @@ export const metadata = {
   description: "Advogado em canoas",
 };
 
+const cinzel = Cinzel({
+  subsets: ["latin"],
+});
+
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-BR" >
-      <body>{children}</body>
+      <body className={cinzel.className}>
+        {children}
+      </body>
     </html>
   );
 }
+  
