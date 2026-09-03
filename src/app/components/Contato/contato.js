@@ -17,7 +17,7 @@ export default function Contato() {
                     Whatsapp
                 </ButtonContact>
                 <a
-                    href="mailto:leo.martini.dev@gmail.com" 
+                    href="mailto:contato@joseantunesadvogados.com.br" 
                     className="button-email" 
                 >
                     Email
