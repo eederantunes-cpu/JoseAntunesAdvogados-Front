@@ -59,8 +59,7 @@
 
 .sobre-conteudo > img {
     width: 35%;
-    min-width: px;
-    height: auto;
+    height: 80%;
     display: block;
 }
 
