@@ -1,6 +1,6 @@
 {
   "name": "joseantunesadvogados",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "next": "16.3.0",
+    "next-auth": "^5.0.0-beta.32",
     "react": "19.2.8",
     "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.3",
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
   }
 }

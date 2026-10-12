@@ -1,0 +1,16 @@
+.button-login-google {
+    background-color: var(--color-background);
+    padding: 10px 25px;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 0.3rem;
+    border: 1px solid var(--color-gold);
+    gap: 10px;
+    color: var(--color-text);
+    background: var(--color-background);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}

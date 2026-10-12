@@ -1,0 +1,16 @@
+.welcome {
+  position: relative;
+  z-index: 1;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0b1f3a;
+  background-image: url("https://media-public.canva.com/MADQ5LDp7l8/1/screen_2x.jpg");
+  backdrop-filter: blur(5px);
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  overflow: hidden;
+}
