@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://joseantunesadvogados.com.br/sitemap.xml
+Host: https://joseantunesadvogados.com.br
